@@ -128,8 +128,4 @@ While specific repository links for the DeepDive-32B implementation were not pro
 - Reinforcement learning libraries for agent training
 - Financial data APIs and knowledge bases
 
-For those looking to implement similar systems, consider starting with existing agent frameworks and extending them with domain-specific financial knowledge and reasoning capabilities.
-
 ---
-
-*This summary is based on research discussions about tree search for LLM-agent reinforcement learning and deep search architectures, with particular attention to applications in financial analysis and investment decision-making.*
